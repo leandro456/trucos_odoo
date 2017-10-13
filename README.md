@@ -1,2 +1,2 @@
 # trucos_odoo
-Trucos de Odoo
+Listado de los principales trucos de Odoo
